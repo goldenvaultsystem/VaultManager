@@ -1,84 +1,84 @@
-                                                             ÓÃ»§Ğ­Òé(ÖĞÎÄ°æ)                                                                          
-1. ²úÆ·ÓÃÍ¾
-      ½ğ¿â¹Ü¼ÒÈí¼şÊ¹ÓÃÒøĞĞU¶Ü¼¼Êõ±£»¤ÄãµÄÖØÒªÊı¾İ¡£½ğ¿â¹Ü¼Ò¼ò»¯ÁËÓÃ»§Ê¹ÓÃWindowsÔ­Éúbitlocker¼ÓÃÜVHDÎÄ¼şµÄÁ÷³Ì,Ôö¼ÓÒøĞĞU¶Ü°²È«¼¼Êõ,°ïÖúÓÃ»§ÓĞĞ§¶Å¾øÊı¾İ±»±©Á¦ÆÆ½âÇÔÈ¡·çÏÕ,¼«´ó±£»¤ÁËÓÃ»§µÄÊı¾İ°²È«¡£
-      ½ğ¿â¹Ü¼ÒÉú³ÉµÄ½ğ¿âVHDÎÄ¼şÒ²ÊÇWindowsÔ­ÉúÖ§³Ö,¿ÉÒÔÔÚ²»Ê¹ÓÃ½ğ¿â¹Ü¼ÒÇé¿öÏÂ,Ö±½ÓÔÚÈÎºÎWindows»·¾³ÖĞ´ò¿ª¡£
-      ½ğ¿â¹Ü¼ÒÖ÷ÒªÓ¦ÓÃÓÚÒÔÏÂÈı¸öÓ¦ÓÃ³¡¾°:
-      1.Ìá¹©¿ÉÓÃÓÚ±¾µØ×ÔÓÃµÄ´óÈİÁ¿½ğ¿âÎÄ¼ş,Ê¹ÓÃ½ğ¿âÎÄ¼şÊ±Ğè´îÅä½ğÔ¿Ó²¼şÒ»ÆğÊ¹ÓÃ,ÓÃ»§¿ÉÒÔĞÂ½¨±¾µØ×ÔÓÃ´óÈİÁ¿°²È«´æ´¢ÈİÆ÷ÎÄ¼ş;
-      2.Ìá¹©¿ÉÓÃÓÚÔÆ¶Ë´æ´¢µÄÖĞÈİÁ¿½ğ¿âÎÄ¼ş,Ê¹ÓÃ½ğ¿âÎÄ¼şÊ±Ğè´îÅä½ğÔ¿Ó²¼şÒ»ÆğÊ¹ÓÃ,ÓÃ»§¿ÉÒÔÔÚ»¥ÁªÍø°²È«´æ·ÅÖØÒªÊı¾İÎŞĞèµ£ĞÄĞ¹ÃÜ;
-      3.Ìá¹©¿ÉÓÃÓÚÔ¶³Ì´«ÊäµÄĞ¡ÈİÁ¿½ğ¿âÎÄ¼ş,Ê¹ÓÃ½ğ¿âÎÄ¼şÊ±Ğè´îÅä½ğÔ¿Ó²¼şÒ»ÆğÊ¹ÓÃ,ÓÃ»§¿ÉÒÔÔÚ»¥ÁªÍø°²È«´«ËÍÖØÒªÊı¾İ¸ø×Ô¼ºÔ¶³Ì¶Ë¡£
+                                                             ç”¨æˆ·åè®®(ä¸­æ–‡ç‰ˆ)                                                                          
+1. äº§å“ç”¨é€”
+      é‡‘åº“ç®¡å®¶è½¯ä»¶ä½¿ç”¨é“¶è¡ŒUç›¾æŠ€æœ¯ä¿æŠ¤ä½ çš„é‡è¦æ•°æ®ã€‚é‡‘åº“ç®¡å®¶ç®€åŒ–äº†ç”¨æˆ·ä½¿ç”¨WindowsåŸç”ŸbitlockeråŠ å¯†VHDæ–‡ä»¶çš„æµç¨‹,å¢åŠ é“¶è¡ŒUç›¾å®‰å…¨æŠ€æœ¯,å¸®åŠ©ç”¨æˆ·æœ‰æ•ˆæœç»æ•°æ®è¢«æš´åŠ›ç ´è§£çªƒå–é£é™©,æå¤§ä¿æŠ¤äº†ç”¨æˆ·çš„æ•°æ®å®‰å…¨ã€‚
+      é‡‘åº“ç®¡å®¶ç”Ÿæˆçš„é‡‘åº“VHDæ–‡ä»¶ä¹Ÿæ˜¯WindowsåŸç”Ÿæ”¯æŒ,å¯ä»¥åœ¨ä¸ä½¿ç”¨é‡‘åº“ç®¡å®¶æƒ…å†µä¸‹,ç›´æ¥åœ¨ä»»ä½•Windowsç¯å¢ƒä¸­æ‰“å¼€ã€‚
+      é‡‘åº“ç®¡å®¶ä¸»è¦åº”ç”¨äºä»¥ä¸‹ä¸‰ä¸ªåº”ç”¨åœºæ™¯:
+      1.æä¾›å¯ç”¨äºæœ¬åœ°è‡ªç”¨çš„å¤§å®¹é‡é‡‘åº“æ–‡ä»¶,ä½¿ç”¨é‡‘åº“æ–‡ä»¶æ—¶éœ€æ­é…é‡‘é’¥ç¡¬ä»¶ä¸€èµ·ä½¿ç”¨,ç”¨æˆ·å¯ä»¥æ–°å»ºæœ¬åœ°è‡ªç”¨å¤§å®¹é‡å®‰å…¨å­˜å‚¨å®¹å™¨æ–‡ä»¶;
+      2.æä¾›å¯ç”¨äºäº‘ç«¯å­˜å‚¨çš„ä¸­å®¹é‡é‡‘åº“æ–‡ä»¶,ä½¿ç”¨é‡‘åº“æ–‡ä»¶æ—¶éœ€æ­é…é‡‘é’¥ç¡¬ä»¶ä¸€èµ·ä½¿ç”¨,ç”¨æˆ·å¯ä»¥åœ¨äº’è”ç½‘å®‰å…¨å­˜æ”¾é‡è¦æ•°æ®æ— éœ€æ‹…å¿ƒæ³„å¯†;
+      3.æä¾›å¯ç”¨äºè¿œç¨‹ä¼ è¾“çš„å°å®¹é‡é‡‘åº“æ–‡ä»¶,ä½¿ç”¨é‡‘åº“æ–‡ä»¶æ—¶éœ€æ­é…é‡‘é’¥ç¡¬ä»¶ä¸€èµ·ä½¿ç”¨,ç”¨æˆ·å¯ä»¥åœ¨äº’è”ç½‘å®‰å…¨ä¼ é€é‡è¦æ•°æ®ç»™è‡ªå·±è¿œç¨‹ç«¯ã€‚
 	  
-2. ÓÃ»§ÔğÈÎºÍ·çÏÕ³Ğµ£
-      ÓÃ»§Í¬Òâ°´ÕÕĞ­Òé¹ºÂò½öÏŞÓÚ±¾ÈËÊ¹ÓÃ»òÕß±¾¹«Ë¾ÄÚ²¿Ê¹ÓÃµÄ½ğ¿â¹Ü¼ÒĞí¿ÉÖ¤,½öÏŞÓÚÓÃ»§ÓÃÓÚ±£Ö¤×Ô¼ºÊı¾İ°²È«ÓÃÍ¾,²»µÃ´ÓÊÂÎ¥·¨»òÎ´¾­ÊÚÈ¨µÄ»î¶¯,°üÀ¨µ«²»ÏŞÓÚÉí·İÆÛÕ©¡¢·Ç·¨´«ËÍ¹ú¼Ò»úÃÜ¼°ÉæÃÜÎÄ¼ş¡¢·Ç·¨´«ËÍÕşÖÎÃô¸ĞÎÄ¼ş¡¢´«ËÍ·ÇÊÚÈ¨ÇÖÈ¨ÄÚÈİµÈĞĞÎª¡£
-      ÓÃ»§²»µÃ¶Ô½ğ¿â¹Ü¼ÒÈí¼ş½øĞĞÄæÏò¹¤³Ì¡¢ÆÆ½â¡¢´Û¸Ä»òÆäËûÆÆ»µĞĞÎª¡£
-      ·¢ÉúÒòÓÃ»§Ô­ÒòÈç½ğÔ¿Ä¬ÈÏÃÜÂëÎ´ĞŞ¸Ä¡¢ÃÜÂë¹ıÓÚ¼òµ¥¡¢±»ËûÈËµÁÓÃµÈµÈÔ­Òòµ¼ÖÂµÄ°²È«ÊÂ¼ş,ÓÃ»§ĞèÒª×ÔĞĞ³Ğµ£Òò´Ë²úÉúµÄºó¹ûºÍÔğÈÎ¡£
-      ÓÃ»§Ó¦×ĞÏ¸ÔÄ¶Á½ğ¿â¹Ü¼ÒÈí¼şÎÄµµ,ÊìÏ¤²Ù×÷Á÷³Ì,ÓĞÁ¼ºÃµÄ¶¨ÆÚÊı¾İ±¸·İÏ°¹ß,½¨ÒéÌáÇ°×¼±¸ºÃµÚ¶ş¸ö½ğÔ¿×÷Îª±¸ÓÃ½ğÔ¿,¿ÉÒÔ´ó´ó¼õÉÙÊı¾İ¶ªÊ§»òËğ»µµÄ·çÏÕ¡£
+2. ç”¨æˆ·è´£ä»»å’Œé£é™©æ‰¿æ‹…
+      ç”¨æˆ·åŒæ„æŒ‰ç…§åè®®è´­ä¹°ä»…é™äºæœ¬äººä½¿ç”¨æˆ–è€…æœ¬å…¬å¸å†…éƒ¨ä½¿ç”¨çš„é‡‘åº“ç®¡å®¶è®¸å¯è¯,ä»…é™äºç”¨æˆ·ç”¨äºä¿è¯è‡ªå·±æ•°æ®å®‰å…¨ç”¨é€”,ä¸å¾—ä»äº‹è¿æ³•æˆ–æœªç»æˆæƒçš„æ´»åŠ¨,åŒ…æ‹¬ä½†ä¸é™äºèº«ä»½æ¬ºè¯ˆã€éæ³•ä¼ é€å›½å®¶æœºå¯†åŠæ¶‰å¯†æ–‡ä»¶ã€éæ³•ä¼ é€æ”¿æ²»æ•æ„Ÿæ–‡ä»¶ã€ä¼ é€éæˆæƒä¾µæƒå†…å®¹ç­‰è¡Œä¸ºã€‚
+      ç”¨æˆ·ä¸å¾—å¯¹é‡‘åº“ç®¡å®¶è½¯ä»¶è¿›è¡Œé€†å‘å·¥ç¨‹ã€ç ´è§£ã€ç¯¡æ”¹æˆ–å…¶ä»–ç ´åè¡Œä¸ºã€‚
+      å‘ç”Ÿå› ç”¨æˆ·åŸå› å¦‚é‡‘é’¥é»˜è®¤å¯†ç æœªä¿®æ”¹ã€å¯†ç è¿‡äºç®€å•ã€è¢«ä»–äººç›—ç”¨ç­‰ç­‰åŸå› å¯¼è‡´çš„å®‰å…¨äº‹ä»¶,ç”¨æˆ·éœ€è¦è‡ªè¡Œæ‰¿æ‹…å› æ­¤äº§ç”Ÿçš„åæœå’Œè´£ä»»ã€‚
+      ç”¨æˆ·åº”ä»”ç»†é˜…è¯»é‡‘åº“ç®¡å®¶è½¯ä»¶æ–‡æ¡£,ç†Ÿæ‚‰æ“ä½œæµç¨‹,æœ‰è‰¯å¥½çš„å®šæœŸæ•°æ®å¤‡ä»½ä¹ æƒ¯,å»ºè®®æå‰å‡†å¤‡å¥½ç¬¬äºŒä¸ªé‡‘é’¥ä½œä¸ºå¤‡ç”¨é‡‘é’¥,å¯ä»¥å¤§å¤§å‡å°‘æ•°æ®ä¸¢å¤±æˆ–æŸåçš„é£é™©ã€‚
 	  
-3. ¿ª·¢ÔËÓª·½ÔğÈÎ
-      ¿ª·¢ÔËÓª·½³ĞÅµÎªÓÃ»§Ìá¹©½ğ¿â¹Ü¼ÒÈí¼şºÍ½ğ¿â¹Ü¼ÒĞí¿ÉÖ¤Ïà¹ØµÄ¼òµ¥¼¼Êõ×ÉÑ¯,ÓÃ»§Ó¦×ĞÏ¸ÔÄ¶Á½ğ¿â¹Ü¼ÒÈí¼şÎÄµµ,Ó¦ÓĞÁ¼ºÃµÄ¶¨ÆÚÊı¾İ±¸·İÏ°¹ß,¶ÔÓÚÒòÓÃ»§¸öÈË²Ù×÷Ê§Îó¡¢½ğÔ¿Ó²¼ş¹ÊÕÏ¡¢½ğ¿â¹Ü¼ÒÈí¼ş¼¼ÊõÎÊÌâ»ò²»¿É¿¹Á¦ÒòËØµ¼ÖÂµÄ·şÎñÖĞ¶Ï¡¢Êı¾İ¶ªÊ§¡¢Êı¾İËğ»µ»òÆäËûËğÊ§,¿ª·¢ÔËÓª·½²»³Ğµ£ÔğÈÎ¡£
+3. å¼€å‘è¿è¥æ–¹è´£ä»»
+      å¼€å‘è¿è¥æ–¹æ‰¿è¯ºä¸ºç”¨æˆ·æä¾›é‡‘åº“ç®¡å®¶è½¯ä»¶å’Œé‡‘åº“ç®¡å®¶è®¸å¯è¯ç›¸å…³çš„ç®€å•æŠ€æœ¯å’¨è¯¢,ç”¨æˆ·åº”ä»”ç»†é˜…è¯»é‡‘åº“ç®¡å®¶è½¯ä»¶æ–‡æ¡£,åº”æœ‰è‰¯å¥½çš„å®šæœŸæ•°æ®å¤‡ä»½ä¹ æƒ¯,å¯¹äºå› ç”¨æˆ·ä¸ªäººæ“ä½œå¤±è¯¯ã€é‡‘é’¥ç¡¬ä»¶æ•…éšœã€é‡‘åº“ç®¡å®¶è½¯ä»¶æŠ€æœ¯é—®é¢˜æˆ–ä¸å¯æŠ—åŠ›å› ç´ å¯¼è‡´çš„æœåŠ¡ä¸­æ–­ã€æ•°æ®ä¸¢å¤±ã€æ•°æ®æŸåæˆ–å…¶ä»–æŸå¤±,å¼€å‘è¿è¥æ–¹ä¸æ‰¿æ‹…è´£ä»»ã€‚
 	  
-4. ÒşË½ºÍÊı¾İ°²È«
-      Ğí¿ÉÖ¤½ö×÷Îª¹ºÂò·½±¾ÈË½ğ¿â¹Ü¼Ò½ğÔ¿¹¦ÄÜĞí¿ÉÊ¹ÓÃ,²»µÃÍâ½èÓÚËûÈËÊ¹ÓÃ¡£Ğí¿ÉÖ¤½è¸øËûÈËÊ¹ÓÃ,¿ÉÔì³É¹ºÂò·½ÒÔÍù½ğ¿âÎÄ¼şĞ¹ÃÜ¡£Ğí¿ÉÖ¤ÖĞµÄ³ÖÓĞÈËĞÅÏ¢Îª¹ºÂò·½×Ô¶¨ÒåÉèÖÃĞÅÏ¢,·½±ã¹ºÂò·½×Ô¼º±æ±ğÆä±¾ÈË½ğÔ¿¡£ÊÔÓÃĞí¿ÉÖ¤½ö×÷Îª²âÊÔÊ¹ÓÃ,²»µÃÊ¹ÓÃÊÔÓÃĞí¿ÉÖ¤´´½¨½ğ¿âÎÄ¼ş±£´æÖØÒªÊı¾İ,·ñÔò½«Ôì³ÉÊı¾İĞ¹Â¶¡£
-      ½ğ¿â¹Ü¼Ò¿ª·¢ÔËÓª·½²»¶ÔĞí¿ÉÖ¤ÈÎºÎĞÅÏ¢½øĞĞÕæÊµĞÔÈÏÖ¤,¶ÔÓÚÈÎºÎÈËÒòÎªÎóĞÅ¶øµ¼ÖÂÈÎºÎÊÂ¼ş,½ğ¿â¹Ü¼Ò¿ª·¢ÔËÓª·½²»³Ğµ£Òò´Ë²úÉúµÄºó¹ûºÍÔğÈÎ¡£
-      ½ğ¿â¹Ü¼ÒÈí¼şÔÚÓÃ»§Ê¹ÓÃ¹ı³ÌÖĞ²»»á²É¼¯¡¢Ê¹ÓÃºÍ±£´æÓÃ»§µÄÊı¾İ, ÇëÓÃ»§·ÅĞÄÊ¹ÓÃ¡£
+4. éšç§å’Œæ•°æ®å®‰å…¨
+      è®¸å¯è¯ä»…ä½œä¸ºè´­ä¹°æ–¹æœ¬äººé‡‘åº“ç®¡å®¶é‡‘é’¥åŠŸèƒ½è®¸å¯ä½¿ç”¨,ä¸å¾—å¤–å€Ÿäºä»–äººä½¿ç”¨ã€‚è®¸å¯è¯å€Ÿç»™ä»–äººä½¿ç”¨,å¯é€ æˆè´­ä¹°æ–¹ä»¥å¾€é‡‘åº“æ–‡ä»¶æ³„å¯†ã€‚è®¸å¯è¯ä¸­çš„æŒæœ‰äººä¿¡æ¯ä¸ºè´­ä¹°æ–¹è‡ªå®šä¹‰è®¾ç½®ä¿¡æ¯,æ–¹ä¾¿è´­ä¹°æ–¹è‡ªå·±è¾¨åˆ«å…¶æœ¬äººé‡‘é’¥ã€‚è¯•ç”¨è®¸å¯è¯ä»…ä½œä¸ºæµ‹è¯•ä½¿ç”¨,ä¸å¾—ä½¿ç”¨è¯•ç”¨è®¸å¯è¯åˆ›å»ºé‡‘åº“æ–‡ä»¶ä¿å­˜é‡è¦æ•°æ®,å¦åˆ™å°†é€ æˆæ•°æ®æ³„éœ²ã€‚
+      é‡‘åº“ç®¡å®¶å¼€å‘è¿è¥æ–¹ä¸å¯¹è®¸å¯è¯ä»»ä½•ä¿¡æ¯è¿›è¡ŒçœŸå®æ€§è®¤è¯,å¯¹äºä»»ä½•äººå› ä¸ºè¯¯ä¿¡è€Œå¯¼è‡´ä»»ä½•äº‹ä»¶,é‡‘åº“ç®¡å®¶å¼€å‘è¿è¥æ–¹ä¸æ‰¿æ‹…å› æ­¤äº§ç”Ÿçš„åæœå’Œè´£ä»»ã€‚
+      é‡‘åº“ç®¡å®¶è½¯ä»¶åœ¨ç”¨æˆ·ä½¿ç”¨è¿‡ç¨‹ä¸­ä¸ä¼šé‡‡é›†ã€ä½¿ç”¨å’Œä¿å­˜ç”¨æˆ·çš„æ•°æ®, è¯·ç”¨æˆ·æ”¾å¿ƒä½¿ç”¨ã€‚
 	  
-5. È«ÇòÏúÊÛÓëÊ¹ÓÃÏŞÖÆÌõ¿î
-      ÖĞ¹ú´óÂ½µØÇøµÄÏúÊÛÓëÊ¹ÓÃÏŞÖÆ:
-      Ìá¹©½ğ¿â¹Ü¼ÒÖĞ¹ú°æ,¸Ã°æ±¾¾ßÓĞÖĞÓ¢ÎÄÓïÑÔ¿ÉÇĞ»»ÓÃ»§½çÃæ,¿ÉÖ§³Ö¸öÈË¿Í»§Ê¹ÓÃºÍ¹«Ë¾¿Í»§¶ş´Î¶¨ÖÆ»¯¿ª·¢,¹«Ë¾¿Í»§ÔÚ¹«Ë¾ÄÚ²¿×ÔÖ÷¹ÜÀíÊ¹ÓÃ¡£
+5. å…¨çƒé”€å”®ä¸ä½¿ç”¨é™åˆ¶æ¡æ¬¾
+      ä¸­å›½å¤§é™†åœ°åŒºçš„é”€å”®ä¸ä½¿ç”¨é™åˆ¶:
+      æä¾›é‡‘åº“ç®¡å®¶ä¸­å›½ç‰ˆ,è¯¥ç‰ˆæœ¬å…·æœ‰ä¸­è‹±æ–‡è¯­è¨€å¯åˆ‡æ¢ç”¨æˆ·ç•Œé¢,å¯æ”¯æŒä¸ªäººå®¢æˆ·ä½¿ç”¨å’Œå…¬å¸å®¢æˆ·äºŒæ¬¡å®šåˆ¶åŒ–å¼€å‘,å…¬å¸å®¢æˆ·åœ¨å…¬å¸å†…éƒ¨è‡ªä¸»ç®¡ç†ä½¿ç”¨ã€‚
 
-      È«ÇòÆäËûµØÇøµÄÏúÊÛÓëÊ¹ÓÃÏŞÖÆ:
-      Ìá¹©½ğ¿â¹Ü¼Ò·ÇÖĞ¹úÈ«Çò°æ±¾,¸Ã°æ±¾¾ßÓĞÖĞÓ¢ÎÄÓïÑÔ¿ÉÇĞ»»ÓÃ»§½çÃæ,Ö§³Ö¸öÈË¿Í»§Ê¹ÓÃ¡£
+      å…¨çƒå…¶ä»–åœ°åŒºçš„é”€å”®ä¸ä½¿ç”¨é™åˆ¶:
+      æä¾›é‡‘åº“ç®¡å®¶éä¸­å›½å…¨çƒç‰ˆæœ¬,è¯¥ç‰ˆæœ¬å…·æœ‰ä¸­è‹±æ–‡è¯­è¨€å¯åˆ‡æ¢ç”¨æˆ·ç•Œé¢,æ”¯æŒä¸ªäººå®¢æˆ·ä½¿ç”¨ã€‚
       
-6. Ğí¿ÉÖ¤ÓĞĞ§ĞÔÓëÔğÈÎ
-      ±¾Èí¼şµÄĞí¿ÉÖ¤½öÔÚ·ûºÏËùÔÚµØÇøÒªÇóµÄ¹ú¼Ò/µØÇøÓĞĞ§¡£Èç¹ûÓÃ»§ËùÔÚµØÇøµÄ·¨ÂÉ½ûÖ¹Ê¹ÓÃ±¾Èí¼ş,»òÓÃ»§Î¥·´ÁËËùÔÚµØÇøÏŞÖÆ,Ğí¿ÉÖ¤½«Á¢¼´Ê§Ğ§,ÇÒÓÃ»§Ğè³Ğµ£Òò´Ë²úÉúµÄËùÓĞ·¨ÂÉÔğÈÎ¡£
-      ÓÃ»§±ØĞëÈ·±£ÆäÊ¹ÓÃ±¾Èí¼şµÄĞĞÎª·ûºÏ·¨ÂÉÒªÇó,²¢¸ºÔğÔÚµ±µØµÄºÏ¹æĞÔºÍ·¨ÂÉÔğÈÎ¡£
+6. è®¸å¯è¯æœ‰æ•ˆæ€§ä¸è´£ä»»
+      æœ¬è½¯ä»¶çš„è®¸å¯è¯ä»…åœ¨ç¬¦åˆæ‰€åœ¨åœ°åŒºè¦æ±‚çš„å›½å®¶/åœ°åŒºæœ‰æ•ˆã€‚å¦‚æœç”¨æˆ·æ‰€åœ¨åœ°åŒºçš„æ³•å¾‹ç¦æ­¢ä½¿ç”¨æœ¬è½¯ä»¶,æˆ–ç”¨æˆ·è¿åäº†æ‰€åœ¨åœ°åŒºé™åˆ¶,è®¸å¯è¯å°†ç«‹å³å¤±æ•ˆ,ä¸”ç”¨æˆ·éœ€æ‰¿æ‹…å› æ­¤äº§ç”Ÿçš„æ‰€æœ‰æ³•å¾‹è´£ä»»ã€‚
+      ç”¨æˆ·å¿…é¡»ç¡®ä¿å…¶ä½¿ç”¨æœ¬è½¯ä»¶çš„è¡Œä¸ºç¬¦åˆæ³•å¾‹è¦æ±‚,å¹¶è´Ÿè´£åœ¨å½“åœ°çš„åˆè§„æ€§å’Œæ³•å¾‹è´£ä»»ã€‚
 	  
-7. ±ä¸üºÍÖÕÖ¹
-      ¿ª·¢ÔËÓª·½±£Áô¸ù¾İ¹ú¼Ê·¨ÂÉ±ä¸ü¡¢¸÷µØÇøÕş²ßµ÷Õû»òÕş¸®ÒªÇó,ËæÊ±ĞŞ¸Ä»òÖÕÖ¹ÌØ¶¨µØÇøµÄÏúÊÛºÍÊ¹ÓÃĞí¿ÉµÄÈ¨Àû¡£ÈôÓÃ»§Î¥·´±¾Ğ­ÒéÖĞµÄµØÇøÊ¹ÓÃÏŞÖÆ,¿ª·¢ÔËÓª·½ÓĞÈ¨Á¢¼´ÖÕÖ¹Ğí¿ÉÖ¤,²¢²ÉÈ¡ÏàÓ¦µÄ·¨ÂÉĞĞ¶¯¡£
-      ¿ª·¢ÔËÓª·½ÓĞÈ¨ÔÚÌØ¶¨Çé¿öÏÂÖÕÖ¹ÓÃ»§Ê¹ÓÃ½ğ¿â¹Ü¼ÒºÍĞí¿ÉÖ¤·şÎñ,ÀıÈçÓÃ»§²»Í¬ÒâĞ­Òé¡¢Ğí¿ÉÖ¤µ½ÆÚ¡¢ÓÃ»§Î¥¹æ²Ù×÷µÈµÈÇé¿ö¡£
-      ÄãÊ¹ÓÃ±¾Èí¼ş¼´ÊÓÎªÄãÒÑÔÄ¶Á²¢Í¬ÒâÊÜ±¾Ğ­ÒéµÄÔ¼Êø¡£¿ª·¢ÔËÓª·½ÓĞÈ¨ÔÚ±ØÒªÊ±ĞŞ¸Ä±¾Ğ­ÒéÌõ¿î¡£Äã¿ÉÒÔÔÚ±¾Èí¼şµÄ×îĞÂ°æ±¾ÖĞ²éÔÄÏà¹ØĞ­ÒéÌõ¿î¡£±¾Ğ­ÒéÌõ¿î±ä¸üºó,Èç¹ûÄã¼ÌĞøÊ¹ÓÃ±¾Èí¼ş,¼´ÊÓÎªÄãÒÑ½ÓÊÜĞŞ¸ÄºóµÄĞ­Òé¡£Èç¹ûÄã²»½ÓÊÜĞŞ¸ÄºóµÄĞ­Òé,Ó¦µ±Í£Ö¹Ê¹ÓÃ±¾Èí¼ş¡£
+7. å˜æ›´å’Œç»ˆæ­¢
+      å¼€å‘è¿è¥æ–¹ä¿ç•™æ ¹æ®å›½é™…æ³•å¾‹å˜æ›´ã€å„åœ°åŒºæ”¿ç­–è°ƒæ•´æˆ–æ”¿åºœè¦æ±‚,éšæ—¶ä¿®æ”¹æˆ–ç»ˆæ­¢ç‰¹å®šåœ°åŒºçš„é”€å”®å’Œä½¿ç”¨è®¸å¯çš„æƒåˆ©ã€‚è‹¥ç”¨æˆ·è¿åæœ¬åè®®ä¸­çš„åœ°åŒºä½¿ç”¨é™åˆ¶,å¼€å‘è¿è¥æ–¹æœ‰æƒç«‹å³ç»ˆæ­¢è®¸å¯è¯,å¹¶é‡‡å–ç›¸åº”çš„æ³•å¾‹è¡ŒåŠ¨ã€‚
+      å¼€å‘è¿è¥æ–¹æœ‰æƒåœ¨ç‰¹å®šæƒ…å†µä¸‹ç»ˆæ­¢ç”¨æˆ·ä½¿ç”¨é‡‘åº“ç®¡å®¶å’Œè®¸å¯è¯æœåŠ¡,ä¾‹å¦‚ç”¨æˆ·ä¸åŒæ„åè®®ã€è®¸å¯è¯åˆ°æœŸã€ç”¨æˆ·è¿è§„æ“ä½œç­‰ç­‰æƒ…å†µã€‚
+      ä½ ä½¿ç”¨æœ¬è½¯ä»¶å³è§†ä¸ºä½ å·²é˜…è¯»å¹¶åŒæ„å—æœ¬åè®®çš„çº¦æŸã€‚å¼€å‘è¿è¥æ–¹æœ‰æƒåœ¨å¿…è¦æ—¶ä¿®æ”¹æœ¬åè®®æ¡æ¬¾ã€‚ä½ å¯ä»¥åœ¨æœ¬è½¯ä»¶çš„æœ€æ–°ç‰ˆæœ¬ä¸­æŸ¥é˜…ç›¸å…³åè®®æ¡æ¬¾ã€‚æœ¬åè®®æ¡æ¬¾å˜æ›´å,å¦‚æœä½ ç»§ç»­ä½¿ç”¨æœ¬è½¯ä»¶,å³è§†ä¸ºä½ å·²æ¥å—ä¿®æ”¹åçš„åè®®ã€‚å¦‚æœä½ ä¸æ¥å—ä¿®æ”¹åçš„åè®®,åº”å½“åœæ­¢ä½¿ç”¨æœ¬è½¯ä»¶ã€‚
 
-							½ğ¿â¹Ü¼Ò¿ª·¢ÔËÓª·½
-								2025Äê7ÔÂ7ÈÕ
+							é‡‘åº“ç®¡å®¶å¼€å‘è¿è¥æ–¹
+								2025å¹´7æœˆ7æ—¥
 
 
-                                                             User Agreement(English Version)
-1. Product Purpose
-      The Vault Manager software uses bank security key technology to protect your important data. It simplifies the process of using Windows native BitLocker to encrypt VHD files, adds bank-grade security key technology, helps users effectively eliminate the risk of data being stolen through brute-force attacks, and greatly enhances the security of user data.
-      The vault VHD file generated by Vault Manager is natively supported by Windows and can be opened directly in any Windows environment without using Vault Manager.
-      Vault Manager is primarily used in the following three application scenarios:
-      1. Provides large-capacity hardware-encrypted vault files for local personal use. Security key hardware is required to access vault data. Users can create local personal-use hardware-encrypted secure storage container files;
-      2. Provides medium-capacity public key encrypted vault files for cloud storage. Security key hardware is required to access vault data. Users can securely store important data on the internet without worrying about leaks;
-      3. Provides small-capacity public key encrypted vault files for remote transmission, ensuring the confidentiality and integrity of important data during transmission. Users can securely send important data to their remote endpoints over the internet.
-
-2. User Responsibilities and Risk Assumption
-      Users agree to purchase the license for personal or internal company use only. They must not engage in illegal or unauthorized activities, including but not limited to identity fraud, illegal transmission of state secrets and classified documents, transmission of politically sensitive files, or transmission of unauthorized infringing content.
-      Users must not reverse-engineer, crack, tamper with, or otherwise damage the Vault Manager software.
-      If a security incident occurs due to user negligence, such as failing to change the default security key password, using a weak password, or having their security key stolen, the user bears full responsibility for any resulting consequences and liabilities.
-      Users should carefully read the Vault Manager software documentation, familiarize themselves with the operational procedures, and maintain good habits of regular data backups. It is recommended to prepare a second security key as a backup to significantly reduce the risk of data loss or corruption.
-
-3. Developer and Operator Responsibilities
-      The developer and operator commit to providing users with basic technical consultation related to the Vault Manager software and license. Users should carefully read the Vault Manager documentation and maintain regular data backups. The developer and operator are not responsible for service interruptions, data loss, data corruption, or any other losses caused by user errors, security key hardware failures, software technical issues, or force majeure factors.
-
-4. Privacy and Data Security
-      The license is granted solely for the purchaser's personal use with Vault Manager hardware keys and must not be lent to others. The holder information in the license are user-defined for their own identification purposes.The trial license is strictly for testing purposes. Vault files created with trial licenses must not store sensitive data, as this may lead to data breaches.
-      The Vault Manager developer and operator do not verify the authenticity of any license information. They are not responsible for any consequences arising from misplaced trust in such information.
-      The Vault Manager software does not collect, use, or store any user data during its use. Users can use it with confidence.
-
-5. Global Sales and Usage Restrictions
-      Sales and usage restrictions in Mainland China:
-      The Vault Manager China version is provided with a bilingual (Chinese and English) user interface. It is available for individual users and enterprise clients for secondary customized development and must be managed and used internally within the company.
-
-      Sales and usage restrictions in other global regions:
-      The Vault Manager Non-China Global Version is provided with a bilingual (Chinese and English) user interface and supports individual users.
-
-6. License Validity and Responsibility
-      The software license is only valid in countries/regions where it complies with local regulations. If local laws prohibit the use of this software, or if the user violates regional restrictions, the license will be immediately revoked, and the user will bear all legal liabilities arising from such violations.
-      Users must ensure that their use of the software complies with legal requirements and take responsibility for local compliance and legal obligations.
-
-7. Modifications and Termination
-      The developer and operator reserve the right to modify or terminate sales and usage licenses in specific regions at any time due to international legal changes, regional policy adjustments, or government requirements. If a user violates regional usage restrictions outlined in this agreement, the developer and operator have the right to immediately revoke the license and take appropriate legal action.
-      The Developer and Operator reserves the right to terminate a user's access to Vault Manager and license services under specific circumstances, including but not limited to: user non-compliance with this Agreement, license expiration, or violation of operational protocols.
-      By using this software, you are deemed to have read and agreed to be bound by the terms of this agreement. The developer and operator have the right to modify the terms of this agreement when necessary. You can review the relevant terms of the agreement in the latest version of this software. If you continue to use this software after the terms of this agreement are changed, it will be deemed that you accept the modified agreement. If you do not accept the modified agreement, you should stop using this software.
-
-					Vault Manager Developer and Operator
+                                                             User Agreement(English Version)
+1. Product Purpose
+      The Vault Manager software uses bank security key technology to protect your important data. It simplifies the process of using Windows native BitLocker to encrypt VHD files, adds bank-grade security key technology, helps users effectively eliminate the risk of data being stolen through brute-force attacks, and greatly enhances the security of user data.
+      The vault VHD file generated by Vault Manager is natively supported by Windows and can be opened directly in any Windows environment without using Vault Manager.
+      Vault Manager is primarily used in the following three application scenarios:
+      1. Provides large-capacity hardware-encrypted vault files for local personal use. Security key hardware is required to access vault data. Users can create local personal-use hardware-encrypted secure storage container files;
+      2. Provides medium-capacity public key encrypted vault files for cloud storage. Security key hardware is required to access vault data. Users can securely store important data on the internet without worrying about leaks;
+      3. Provides small-capacity public key encrypted vault files for remote transmission, ensuring the confidentiality and integrity of important data during transmission. Users can securely send important data to their remote endpoints over the internet.
+
+2. User Responsibilities and Risk Assumption
+      Users agree to purchase the license for personal or internal company use only. They must not engage in illegal or unauthorized activities, including but not limited to identity fraud, illegal transmission of state secrets and classified documents, transmission of politically sensitive files, or transmission of unauthorized infringing content.
+      Users must not reverse-engineer, crack, tamper with, or otherwise damage the Vault Manager software.
+      If a security incident occurs due to user negligence, such as failing to change the default security key password, using a weak password, or having their security key stolen, the user bears full responsibility for any resulting consequences and liabilities.
+      Users should carefully read the Vault Manager software documentation, familiarize themselves with the operational procedures, and maintain good habits of regular data backups. It is recommended to prepare a second security key as a backup to significantly reduce the risk of data loss or corruption.
+
+3. Developer and Operator Responsibilities
+      The developer and operator commit to providing users with basic technical consultation related to the Vault Manager software and license. Users should carefully read the Vault Manager documentation and maintain regular data backups. The developer and operator are not responsible for service interruptions, data loss, data corruption, or any other losses caused by user errors, security key hardware failures, software technical issues, or force majeure factors.
+
+4. Privacy and Data Security
+      The license is granted solely for the purchaser's personal use with Vault Manager hardware keys and must not be lent to others. The holder information in the license are user-defined for their own identification purposes.The trial license is strictly for testing purposes. Vault files created with trial licenses must not store sensitive data, as this may lead to data breaches.
+      The Vault Manager developer and operator do not verify the authenticity of any license information. They are not responsible for any consequences arising from misplaced trust in such information.
+      The Vault Manager software does not collect, use, or store any user data during its use. Users can use it with confidence.
+
+5. Global Sales and Usage Restrictions
+      Sales and usage restrictions in Mainland China:
+      The Vault Manager China version is provided with a bilingual (Chinese and English) user interface. It is available for individual users and enterprise clients for secondary customized development and must be managed and used internally within the company.
+
+      Sales and usage restrictions in other global regions:
+      The Vault Manager Non-China Global Version is provided with a bilingual (Chinese and English) user interface and supports individual users.
+
+6. License Validity and Responsibility
+      The software license is only valid in countries/regions where it complies with local regulations. If local laws prohibit the use of this software, or if the user violates regional restrictions, the license will be immediately revoked, and the user will bear all legal liabilities arising from such violations.
+      Users must ensure that their use of the software complies with legal requirements and take responsibility for local compliance and legal obligations.
+
+7. Modifications and Termination
+      The developer and operator reserve the right to modify or terminate sales and usage licenses in specific regions at any time due to international legal changes, regional policy adjustments, or government requirements. If a user violates regional usage restrictions outlined in this agreement, the developer and operator have the right to immediately revoke the license and take appropriate legal action.
+      The Developer and Operator reserves the right to terminate a user's access to Vault Manager and license services under specific circumstances, including but not limited to: user non-compliance with this Agreement, license expiration, or violation of operational protocols.
+      By using this software, you are deemed to have read and agreed to be bound by the terms of this agreement. The developer and operator have the right to modify the terms of this agreement when necessary. You can review the relevant terms of the agreement in the latest version of this software. If you continue to use this software after the terms of this agreement are changed, it will be deemed that you accept the modified agreement. If you do not accept the modified agreement, you should stop using this software.
+
+					Vault Manager Developer and Operator
 							July 7, 2025
