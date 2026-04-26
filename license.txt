@@ -83,5 +83,5 @@ End-User License Agreement(English):
     The Developer and Operator reserves the right to terminate a user's access to Vault Manager and license services under specific circumstances, including but not limited to: user non-compliance with this Agreement, license expiration, or violation of operational protocols.
     By using this software, you are deemed to have read and agreed to be bound by the terms of this agreement. The developer and operator have the right to modify the terms of this agreement when necessary. You can review the relevant terms of the agreement in the latest version of this software. If you continue to use this software after the terms of this agreement are changed, it will be deemed that you accept the modified agreement. If you do not accept the modified agreement, you should stop using this software.
 
-                                                                                                                            Vault Manager Developer and Operator
-                                                                                                                                                        April 26, 2026
+                                                                    Vault Manager Developer and Operator
+                                                                                    April 26, 2026
