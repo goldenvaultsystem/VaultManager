@@ -1,0 +1,26 @@
+﻿
+=================================================
+  THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+=================================================
+
+  This software uses the following third-party components. We acknowledge the contributors of these projects and respect their licensing terms.
+
+1. OpenSSL (Binary Distribution by FireDaemon)
+   - License: Apache License 2.0
+   - Attribution: This software uses OpenSSL (FireDaemon Build, version 3.0 LTS).
+     The OpenSSL toolkit is a product developed by the OpenSSL Project for use in the OpenSSL Toolkit. Copyright (c) 1998-2023 The OpenSSL Project.
+   - Note: The binary distribution is provided by FireDaemon Technologies Ltd.
+     The source code is available at https://www.firedaemon.com/firedaemon-openssl.
+
+2. OpenSC Tools
+   - License: GNU Lesser General Public License (LGPL) v2.1
+   - Attribution: This software utilizes OpenSC tools for hardware token management.
+     The source code is available at https://github.com/OpenSC/OpenSC.
+   - Note: This software calls these tools dynamically and has not modified the original binaries.
+
+3. Yubico PIV Tool (External Dependency)
+   - Requirement: This software requires the user to manually install the official yubico-piv-tool provided by Yubico AB.
+   - Trademark Notice: Yubico and YubiKey are registered trademarks of Yubico AB. This software is not affiliated with, sponsored by, or endorsed by Yubico AB.
+   - Note: The tool is subject to Yubico's own licensing terms.
+     The source code is available at https://developers.yubico.com/yubico-piv-tool/Releases/
+
